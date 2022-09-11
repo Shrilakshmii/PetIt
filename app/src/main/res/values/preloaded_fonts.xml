@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/</item>
+        <item>@font/abel</item>
+        <item>@font/aldrich</item>
+        <item>@font/amaranth</item>
+        <item>@font/amatic_sc_bold</item>
+        <item>@font/bad_script</item>
+        <item>@font/big_shoulders_text</item>
+        <item>@font/bilbo</item>
+        <item>@font/boogaloo</item>
+        <item>@font/caveat</item>
+        <item>@font/caveat_bold</item>
+        <item>@font/cedarville_cursive</item>
+        <item>@font/chathura</item>
+        <item>@font/clicker_script</item>
+        <item>@font/covered_by_your_grace</item>
+        <item>@font/cute_font</item>
+        <item>@font/dawning_of_a_new_day</item>
+        <item>@font/engagement</item>
+        <item>@font/esteban</item>
+        <item>@font/euphoria_script</item>
+        <item>@font/geo</item>
+        <item>@font/girassol</item>
+        <item>@font/give_you_glory</item>
+        <item>@font/kelly_slab</item>
+        <item>@font/poiret_one</item>
+        <item>@font/pompiere</item>
+        <item>@font/reenie_beanie</item>
+        <item>@font/roboto</item>
+        <item>@font/roboto_bold</item>
+        <item>@font/roboto_medium</item>
+        <item>@font/rubik_mono_one</item>
+        <item>@font/ruluko</item>
+        <item>@font/sacramento</item>
+        <item>@font/trochut</item>
+        <item>@font/yesteryear</item>
+        <item>@font/zeyada</item>
+    </array>
+</resources>

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "429775719479",
+    "project_id": "petit-aca96",
+    "storage_bucket": "petit-aca96.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:429775719479:android:7842448672bbf437db83b2",
+        "android_client_info": {
+          "package_name": "com.example.petit_forkt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "429775719479-s4pipgm98sodqigsg3v7bqj5p97hurvo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.petit_thekthotelapp",
+            "certificate_hash": "0e6e2e2cddb2a243aa9583c587ea4c13f5571522"
+          }
+        },
+        {
+          "client_id": "429775719479-ni1vursk422bg11fqhahrjgv4q3n0q81.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVaL4yNy3dSAz9jZdxdP0xynQtJRmDVro"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "429775719479-ni1vursk422bg11fqhahrjgv4q3n0q81.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
